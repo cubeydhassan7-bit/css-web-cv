@@ -1,0 +1,21 @@
+.contact {
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  font-size: xxx-large;
+  font-weight: bold;
+  font-family: ui-sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
